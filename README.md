@@ -1,0 +1,1 @@
+This repository hosts the ARM Linaro GCC binaries available from http://releases.linaro.org.
